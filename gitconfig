@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = houzairmk@icloud.con
-	name = houzairkoussa
+	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
+	name = houzairkouss
