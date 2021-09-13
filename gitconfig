@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = houzairmk@icloud.con
+	name = houzairkoussa
